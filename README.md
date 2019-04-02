@@ -10,6 +10,7 @@ Things that exist that might help you.
 - 12urenloop MM channel <https://mattermost.zeus.gent/zeus/channels/12urenloop>.
 - Notion Wiki (2019) <https://www.notion.so/zeus12ul/12urenloop-b5f12f293bb34eb69f355d919a26a66d>.
 - 12urenloop Slack channel (for when you need prehistoric stuff) <https://zeuswpi.slack.com/messages/C02SAQ136/>.
+- Docs in CVC (old track schematics, mac addresses) <https://github.com/12urenloop/cvc/tree/master/doc>.
 - **This repo**.
 
 ## Applications
