@@ -55,7 +55,7 @@ Things that exist that might help you.
 
 - Function: It's a website
 - Note: You need to update this before the event.
-- URL: <12urenloop.be>
+- URL: <https://12urenloop.be>
 - Repo: <https://github.com/12urenloop/site>
 - Hosted on: urenloop@zeus.ugent.be:2222 (see public/)
 - Stack: nanoc
