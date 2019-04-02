@@ -108,7 +108,7 @@ Relevant things that Zeus has (or once had) (and you should probably bring):
   - Big switches
 - AA Batteries (you'll want lot's)
 - Screens
-- Gyrid's (5)
+- Gyrids (5)
 - Bluetooth sticks (6)
 - Espressobins (5)
 - RF transmitters (10)
