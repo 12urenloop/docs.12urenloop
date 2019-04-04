@@ -1,0 +1,52 @@
+---------- Forwarded message ---------
+Van: Van Geert Jurgen <Jurgen.VanGeert@digipolis.gent>
+Date: ma 1 apr. 2019 om 09:40
+Subject: Internet voor 12urenloop via stadgent-netwerk
+To: kenneth.vandendriessche@12urenloop.be <kenneth.vandendriessche@12urenloop.be>
+
+
+Dag Kenneth,
+
+ 
+
+Net zoals vorig jaar mag je gebruik maken van poort 19 op de switch SPP-SW02.
+
+Die zit in de berging op het gelijkvloers van de Sint-Pieters-Abdij.
+
+ 
+
+Hierbij de info:
+
+IP’s die jullie mogen gebruiken:
+
+84.199.68.115
+
+84.199.68.116  
+
+Default gateway: 84.199.68.97
+
+ 
+
+Als je nog vragen hebt, laat maar weten.
+
+ 
+
+Met vriendelijke groeten,
+
+Jurgen
+
+ 
+
+Jurgen Van Geert
+
+Systeemtechnicus
+
+Systeembeheer - Cel Netwerk
+Beheer en Ondersteuning
+(Voornaam: “Jurgen” - Familienaam: “Van Geert”)
+
+Digipolis
+Bellevue 1, 9050 Gent
+Tel.: +32 9 266 07 63
+http://www.digipolis.be
+Disclaimer
