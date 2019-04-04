@@ -10,6 +10,8 @@ These contacts once had something to do with organisation of 12urenloop, either 
   - Benjamin Cousaert (Zeus @benji, SKO, 12urenloop)
 - Sint Pietersabdij
   - We use their internet
+  - See `abdij/`
+  - Van Geert Jurgen <Jurgen.VanGeert@digipolis.gent>
 - DICT
   - We borrow laptops and tablets there
 - ULYSSIS
