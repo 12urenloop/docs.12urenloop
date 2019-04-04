@@ -18,7 +18,6 @@ These contacts once had something to do with organisation of 12urenloop, either 
   - Leuven's Zeus
   - They fix Leuven's 24urenloop
 
-
 ## Zeus
 
 Sorted by last year of participation

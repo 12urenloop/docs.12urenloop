@@ -1,6 +1,7 @@
 # We need
 
 ## Network
+
 - [ ] Managed switch 
 - [ ] Router 
 - [ ] Two Wifi APs 
@@ -9,6 +10,7 @@
 - [ ] 4G router as backup
 
 ## PCs and stuff for us & Saruman
+
 - [ ] Something for running count-von-count 
 - [ ] A GNU/Linux-client as backup 
 - [ ] 6 laptops for us + Saruman 
@@ -19,12 +21,14 @@
 - [ ] 2 barcode scanners for Saruman 
 
 ## Counting infrastructure
+
 - [ ] 26 batons
 - [ ] AA-batteries
 - [ ] 5 espressobins
 - [ ] 3 tablets for manual counting 
 
 ## Other stuff
+
 - [ ] UPS (+ cables)
 - [ ] Power cables
 - [ ] Verdeelstekkers
