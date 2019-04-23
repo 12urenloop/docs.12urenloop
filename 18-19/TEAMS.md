@@ -17,4 +17,4 @@ Teams (and their running number)
 13. WVK
 14. Hermes & Veto & LILA
 15. Lombriosiana & VBK
-16. ReGent
+16. Antilopen
