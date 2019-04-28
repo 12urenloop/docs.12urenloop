@@ -1,5 +1,7 @@
 # Espressobins
 
+Check out <https://github.com/12urenloop/STROLL>, especially for addresses <https://github.com/12urenloop/STROLL/blob/master/hardware.md>. 
+
 ## Setup
 
 Download ubuntu 16.04 [hier zo](http://espressobin.net/tech-spec/) en installeer hem volgens de instructies [hier zo](http://wiki.espressobin.net/tiki-index.php?page=Boot+from+removable+storage+-+Ubuntu#Preparing_removable_media_2).
