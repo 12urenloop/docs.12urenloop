@@ -12,7 +12,7 @@
 ## Factuur
 
 - Function: Platform to generate/make invoice PDF
-- Note: Standallone app
+- Note: Standalone app
 - Note: Check /var/www/factuur.12urenloop.be/ (instead of ~)
 - URL <https://12urenloop.be/factuur>
 - Repo: <https://github.com/12urenloop/Factuur>
@@ -28,9 +28,18 @@
 - Hosted on: materiaal@12urenloop.be:2222
 - Stack: Ruby on Rails
 
+## Telraam
+
+- Function: New and hopefully improved application to count laps of the 12urenloop event.
+- Note: Shiny new software.
+- URL: No, this runs locally.
+- Repo: <https://github.com/12urenloop/telraam>
+- Hosted on: Probably a poor mortal's PC during the event, preferably a dedicated server.
+- Stack: Java
+
 ## Count von Count
 
-- Function: System for aggregating runner-detect events from detectors around the track, detecting errors, and propagating this data to Boxxy.
+- Function: System for aggregating runner-detect events from detectors around the track, detecting errors, and propagating this data to Boxxy. Has been replaced by Telraam
 - Note: The beast of burden
 - URL: No, this runs locally.
 - Repo: <https://github.com/12urenloop/cvc>
