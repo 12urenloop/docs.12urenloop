@@ -1,3 +1,7 @@
+---
+title: Gyrid
+---
+
 # Gyrid Setup
 
 - Try accessing gyrids via ssh

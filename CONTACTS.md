@@ -1,3 +1,7 @@
+---
+title: Contacts
+---
+
 # List of contacts
 
 These contacts once had something to do with organisation of 12urenloop, either as an external partner, 12urenloop member or Zeus member.

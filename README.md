@@ -69,4 +69,4 @@ If you need more stuff, ask these people:
 
 is build with https://pmarsceill.github.io/just-the-docs/.
 
-Edits can be made in the repo or straight on github and will when pushed or merged on master automatically be reflected onto the site.
+Edits can be made in the repo or straight on github. When pushed or merged on master they will automatically be reflected onto the site.
