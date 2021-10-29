@@ -1,6 +1,7 @@
 title: 12urenloop Documentation
 description: This site should help you give an overview of things that exist in relation to organizing the yearly 12urenloop and setting up the counting system.
 theme: jekyll-theme-slate
+baseurl: /docs.12urenloop
 
 plugins:
   - jekyll-readme-index
