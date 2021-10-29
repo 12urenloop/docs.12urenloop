@@ -1,3 +1,7 @@
+---
+title: Draaiboek
+---
+
 # T - 5
 
 - [ ] Batterijen opladen
