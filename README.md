@@ -17,9 +17,9 @@ Things that exist that might help you.
 
 There are some **must reads** here:
 
-- <./APPLICATIONS.md>
-- <./CONTACTS.md>
-- <./MATERIAAL.md>
+- [APPLICATIONS](./APPLICATIONS.md)
+- [CONTACTS](./CONTACTS.md)
+- [MATERIAAL](./MATERIAAL.md)
 
 ## Materials
 
