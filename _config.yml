@@ -3,6 +3,3 @@ description: This site should help you give an overview of things that exist in 
 theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 baseurl: /docs.12urenloop
-
-plugins:
-  - jekyll-readme-index
