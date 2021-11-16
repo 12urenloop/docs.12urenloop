@@ -1,3 +1,7 @@
+---
+parent: 18-19
+---
+
 # Remarks & Todo's
 
 Een lijst van remarks en todo's gebaseerd op de ervaring van de 12urenloop van dit jaar. Optimaal gezien worden deze bekeken en meegenomen naar de volgende editie.

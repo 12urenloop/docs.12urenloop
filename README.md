@@ -17,9 +17,9 @@ Things that exist that might help you.
 
 There are some **must reads** here:
 
-- <./APPLICATIONS.md>
-- <./CONTACTS.md>
-- <./MATERIAAL.md>
+- [APPLICATIONS](./APPLICATIONS.md)
+- [CONTACTS](./CONTACTS.md)
+- [MATERIAAL](./MATERIAAL.md)
 
 ## Materials
 
@@ -64,3 +64,9 @@ If you need more stuff, ask these people:
   - Spanbandjes
   - Gaffa tape
   - Network cables
+
+## This site
+
+is build with https://pmarsceill.github.io/just-the-docs/.
+
+Edits can be made in the repo or straight on github. When pushed or merged on master they will automatically be reflected onto the site.
