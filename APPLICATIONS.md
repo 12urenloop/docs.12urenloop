@@ -40,6 +40,13 @@ TODO: Aanvullen
 
 - Repo: <https://github.com/12urenloop/Ronny-the-station-chef>
 
+### Stoktrekker
+
+TODO
+
+- Note: Production grade, battle tested software
+- Repo: <https://github.com/12urenloop/stoktrekker>
+
 ### TODO: Boxxy replacement
 
 ### TODO: Extra monitoring
