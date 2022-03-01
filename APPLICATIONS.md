@@ -44,6 +44,24 @@ TODO: Aanvullen
 
 ### TODO: Extra monitoring
 
+### Saruman
+
+- Function: Platform to book materials and drinks for participating clubs
+- Note: Standallone app. Still on the Zeus repo for some reason.
+- URL: <https://materiaal.12urenloop.be>
+- Repo: <https://github.com/ZeusWPI/Saruman>
+- Hosted on: materiaal@12urenloop.be:2222
+- Stack: Ruby on Rails
+
+### Site
+
+- Function: It's a website
+- Note: You need to update this before the event.
+- URL: <https://12urenloop.be>
+- Repo: <https://github.com/12urenloop/site>
+- Hosted on: urenloop@zeus.ugent.be:2222 (see public/)
+- Stack: nanoc
+
 ### Factuur
 
 - Function: Platform to generate/make invoice PDF
@@ -68,16 +86,6 @@ These are applications (in no specific order) that were used in or made for prev
 - Stack: Node.js - HTML
 
 
-### Saruman
-
-- Function: Platform to book materials and drinks for participating clubs
-- Note: Standallone app. Still on the Zeus repo for some reason.
-- URL: <https://materiaal.12urenloop.be>
-- Repo: <https://github.com/ZeusWPI/Saruman>
-- Hosted on: materiaal@12urenloop.be:2222
-- Stack: Ruby on Rails
-
-
 ### Count von Count
 
 - Function: System for aggregating runner-detect events from detectors around the track, detecting errors, and propagating this data to Boxxy. Has been replaced by Telraam
@@ -86,15 +94,6 @@ These are applications (in no specific order) that were used in or made for prev
 - Repo: <https://github.com/12urenloop/cvc>
 - Hosted on: A poor mortal's PC during the event.
 - Stack: Haskell
-
-### Site
-
-- Function: It's a website
-- Note: You need to update this before the event.
-- URL: <https://12urenloop.be>
-- Repo: <https://github.com/12urenloop/site>
-- Hosted on: urenloop@zeus.ugent.be:2222 (see public/)
-- Stack: nanoc
 
 ### STROLL
 
