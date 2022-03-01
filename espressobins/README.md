@@ -1,3 +1,7 @@
+---
+title: Espressobins
+---
+
 Deprecated
 {: .label .label-red }
 
