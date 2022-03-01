@@ -1,5 +1,5 @@
 ---
-title: technologiestudie
+title: Technologiestudie
 parent: 19-20
 ---
 
