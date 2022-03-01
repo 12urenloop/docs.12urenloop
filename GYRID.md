@@ -2,6 +2,9 @@
 title: Gyrid
 ---
 
+Deprecated
+{: .label .label-red }
+
 # Gyrid Setup
 
 - Try accessing gyrids via ssh
