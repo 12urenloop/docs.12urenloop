@@ -28,7 +28,11 @@
 - Hosted on: Some client in box office.
 - Stack: Node.js - Typescript - Vue
 
-### TODO: Hardware code
+### Ronny the station chef
+
+TODO: Aanvullen
+
+- URL: <https://github.com/12urenloop/Ronny-the-station-chef>
 
 ### TODO: Boxxy replacement
 
