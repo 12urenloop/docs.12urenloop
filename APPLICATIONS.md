@@ -11,6 +11,14 @@
 - Hosted on: Probably a poor mortal's PC during the event, preferably a dedicated server.
 - Stack: Java
 
+### TelraamSim
+
+- Function: Simulation of the event to test Telraam without the actual hardware
+- Note: Very usefull to test the software in a development setup
+- URL: Runs as desktop application on your PC
+- Repo: <https://github.com/12urenloop/telraamsim>
+- Stack: Godot with CSharp
+
 ### Manual Count v2
 
 - Function: Backup system for manual counting in the first hours of the event (hopefully)
@@ -24,7 +32,7 @@
 
 ### TODO: Boxxy replacement
 
-### TODO: TelraamSim
+### TODO: Extra monitoring
 
 ### Factuur
 
