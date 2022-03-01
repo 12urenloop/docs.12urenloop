@@ -1,3 +1,7 @@
+---
+title: technologiestudie
+---
+
 # Telhardware
 
 ## Batons met GPS
