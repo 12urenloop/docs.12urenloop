@@ -18,6 +18,7 @@ Things that exist that might help you.
 There are some **must reads** here:
 
 - [APPLICATIONS](./APPLICATIONS.md)
+- [HARDWARE](./HARDWARE.md)
 - [CONTACTS](./CONTACTS.md)
 - [MATERIAAL](./MATERIAAL.md)
 
