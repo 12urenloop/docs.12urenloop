@@ -5,7 +5,7 @@
 ### Telraam
 
 - Function: New and hopefully improved application to count laps of the 12urenloop event.
-- Note: Shiny new software.
+- Note: Shiny new software. The backbone and main database of our system.
 - URL: No, this runs locally.
 - Repo: <https://github.com/12urenloop/telraam>
 - Hosted on: Probably a poor mortal's PC during the event, preferably a dedicated server.
@@ -18,6 +18,12 @@
 - URL: Runs as desktop application on your PC
 - Repo: <https://github.com/12urenloop/telraamsim>
 - Stack: Godot with CSharp
+
+### Telraam UI
+
+- Function: CRUD-dashboard for Telraam
+- Repo: https://github.com/NuttyShrimp/telraam-ui
+- Stack: Node.js - React
 
 ### Manual Count v2
 
@@ -32,7 +38,7 @@
 
 TODO: Aanvullen
 
-- URL: <https://github.com/12urenloop/Ronny-the-station-chef>
+- Repo: <https://github.com/12urenloop/Ronny-the-station-chef>
 
 ### TODO: Boxxy replacement
 
