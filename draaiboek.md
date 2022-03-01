@@ -2,6 +2,9 @@
 title: Draaiboek
 ---
 
+Page is out of date and needs maintenance
+{: .label .label-yellow }
+
 # T - 5
 
 - [ ] Batterijen opladen
