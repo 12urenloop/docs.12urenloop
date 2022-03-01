@@ -1,3 +1,6 @@
+Deprecated
+{: .label .label-red }
+
 # Espressobins
 
 Check out <https://github.com/12urenloop/STROLL>, especially for addresses <https://github.com/12urenloop/STROLL/blob/master/hardware.md>. 
