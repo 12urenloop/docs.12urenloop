@@ -26,6 +26,7 @@ These contacts once had something to do with organisation of 12urenloop, either 
 
 Sorted by last year of participation
 
+- Robbe Van Herck (@kobbe)
 - Kenneth Van Den Driesche (@tleilaxu)
 - Wout Schellaert (@stro, @wschella)
 - Jeroen De Clerck (@iepoef)
