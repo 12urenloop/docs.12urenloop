@@ -10,6 +10,8 @@ The hardware consists of batons, containing a Bluetooth LE microcontroller and s
 
 The batons contain "Adafruit Feather nRF52 Bluefruit LE - nRF52832" development boards. These boards broadcast BLE beacon packets with a configurable power and MAC address.
 
+See (the repo)[https://github.com/12urenloop/baton_firmware/] for instructions on how to flash the microcontrollers.
+
 ## Stations
 
 The stations are Raspberry Pi 4 single-board computers that listen for the packets sent by the batons using their built-in Bluetooth chipset.
