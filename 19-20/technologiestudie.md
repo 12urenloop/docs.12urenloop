@@ -1,5 +1,6 @@
 ---
 title: technologiestudie
+parent: 19-20
 ---
 
 # Telhardware
