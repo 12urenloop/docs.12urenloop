@@ -44,7 +44,7 @@
 ```typescript
 {
     'detections':
-        {'id': number, 'mac': string, 'rssi': number, 'battery': number, 'uptime_ms': number}[],
+        {'id': number, 'mac': string, 'rssi': number, 'battery': number, 'uptime_ms': number, 'detection_timestamp': number}[],
     'station_id': string
 }
 ```
