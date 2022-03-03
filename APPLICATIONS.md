@@ -36,6 +36,18 @@
 
 ### Ronny the station chef
 
+- Function: interpret BTLE information and host easy to access HTTP server.
+- URL: <ip per station>
+- Stack: Python
+- usage: `GET <ip>/detection/<last_id>`
+- returns
+```typescript
+{
+    'detections':
+        {'id': number, 'mac': string, 'rssi': number, 'battery': number, 'uptime_ms': number}[],
+    'station_id': string
+}
+```
 TODO: Aanvullen
 
 - Repo: <https://github.com/12urenloop/Ronny-the-station-chef>
