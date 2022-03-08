@@ -22,7 +22,7 @@
 ### Telraam UI
 
 - Function: CRUD-dashboard for Telraam
-- Repo: https://github.com/NuttyShrimp/telraam-ui
+- Repo: <https://github.com/NuttyShrimp/telraam-ui>
 - Stack: Node.js - React
 
 ### Manual Count v2
