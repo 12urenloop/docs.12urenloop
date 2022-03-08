@@ -12,6 +12,14 @@ The batons contain "Adafruit Feather nRF52 Bluefruit LE - nRF52832" development 
 
 See (the repo)[https://github.com/12urenloop/baton_firmware/] for instructions on how to flash the microcontrollers.
 
+### Batteries
+
+Lithium ion, 3.7v. About the size of a AA battery. Need to be charged to **?? v** after the event before storage. This is necessary to retain the full capacity of the batteries for further editions.
+
 ## Stations
 
 The stations are Raspberry Pi 4 single-board computers that listen for the packets sent by the batons using their built-in Bluetooth chipset.
+
+### Batteries
+
+We use lead acid car batteries. Need to be fully charged after the event before storage. This is necessary to retain the full capacity of the batteries for further editions.
