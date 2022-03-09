@@ -44,7 +44,8 @@ In `/usr/local/bin/ronny` paste
 ```sh
 #!/bin/bash
 
-stdbuf -oL hcitool lescan --duplicates --passive | /usr/bin/env python /Ronny-the-station-chef/ronny.py
+cd /Ronny-the-station-chef
+/usr/bin/env python ronny.py
 ```
 
 In `/etc/systemd/system/station.service` paste
