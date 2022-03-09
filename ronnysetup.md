@@ -22,60 +22,61 @@
 	`/usr/local/bin/ronny`,
 	and `/usr/local/bin/station`
 12. In `/etc/systemd/system/ronny.service` paste
-```service
-[Unit]
-Description=Ronny, collects detections into a database
-Requires=network.target
-Requires=time-sync.target
-After=network.target
-After=time-sync.target
 
-[Service]
-Type=simple
-Restart=always
-User=root
-ExecStart=ronny
+	```service
+	[Unit]
+	Description=Ronny, collects detections into a database
+	Requires=network.target
+	Requires=time-sync.target
+	After=network.target
+	After=time-sync.target
 
-[Install]
-WantedBy=multi-user.target
-```
+	[Service]
+	Type=simple
+	Restart=always
+	User=root
+	ExecStart=ronny
 
-In `/usr/local/bin/ronny` paste
-```sh
-#!/bin/bash
+	[Install]
+	WantedBy=multi-user.target
+	```
 
-cd /Ronny-the-station-chef
-/usr/bin/env python ronny.py
-```
+	In `/usr/local/bin/ronny` paste
+	```sh
+	#!/bin/bash
 
-In `/etc/systemd/system/station.service` paste
-```service
-[Unit]
-Description=Station, serves detections from the database
-Requires=network.target
-Requires=time-sync.target
-After=network.target
-After=time-sync.target
+	cd /Ronny-the-station-chef
+	/usr/bin/env python ronny.py
+	```
 
-[Service]
-Type=simple
-Restart=always
-User=root
-ExecStart=station
+	In `/etc/systemd/system/station.service` paste
+	```service
+	[Unit]
+	Description=Station, serves detections from the database
+	Requires=network.target
+	Requires=time-sync.target
+	After=network.target
+	After=time-sync.target
 
-[Install]
-WantedBy=multi-user.target
-```
+	[Service]
+	Type=simple
+	Restart=always
+	User=root
+	ExecStart=station
 
-In `/usr/local/bin/station` paste
-```sh
-#!/bin/bash
+	[Install]
+	WantedBy=multi-user.target
+	```
 
-cd /Ronny-the-station-chef
-uvicorn station:app --host 0.0.0.0 --reload
-```
+	In `/usr/local/bin/station` paste
+	```sh
+	#!/bin/bash
 
-Then enable the executables with `sudo chmod +x /usr/local/bin/ronny && sudo chmod +x /usr/local/bin/station`
-and enable the services with `sudo systemctl enable ronny.service && sudo systemctl enable station.service`
+	cd /Ronny-the-station-chef
+	uvicorn station:app --host 0.0.0.0 --reload
+	```
+
+	Then enable the executables with `sudo chmod +x /usr/local/bin/ronny && sudo chmod +x /usr/local/bin/station`
+	and enable the services with `sudo systemctl enable ronny.service && sudo systemctl enable station.service`
 
 13. Restart the pi or run `sudo systemctl start ronny && sudo systemctl start station` to start the services
