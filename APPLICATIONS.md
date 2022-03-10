@@ -37,6 +37,7 @@
 ### Ronny the station chef
 
 - Function: interpret BTLE information and host easy to access HTTP server.
+- Repo: <https://github.com/12urenloop/Ronny-the-station-chef>
 - URL: <ip per station>
 - Stack: Python
 - usage: `GET <ip>/detection/<last_id>`
@@ -48,11 +49,17 @@
     'station_id': string
 }
 ```
-TODO: Aanvullen
+Consists of two parts: 
+1. ronny.py: this handles BTLE detections and inserts them in a database
+2. station.py: this exposes a web interface where the detections can be requested
 
-- Repo: <https://github.com/12urenloop/Ronny-the-station-chef>
 
-### TODO: Boxxy replacement
+### Loxsi
+- Function: Webserver that caches data from Telraam and serves it trough websockets to applications like livesite
+- URL: 
+- Repo: <https://github.com/12urenloop/Loxsi>
+- Hosted on: 
+- Stack: Python
 
 ### TODO: Extra monitoring
 
