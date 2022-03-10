@@ -55,7 +55,7 @@ Consists of two parts:
 
 
 ### Loxsi
-- Function: Webserver that caches data from Telraam and serves it trough websockets to applications like livesite
+- Function: Webserver that caches data from Telraam and serves it through websockets to applications like livesite
 - URL: 
 - Repo: <https://github.com/12urenloop/Loxsi>
 - Hosted on: 
