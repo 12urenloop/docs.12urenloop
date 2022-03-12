@@ -60,7 +60,7 @@ TODO: Aanvullen
 
 ### Monitoring
 - Function: Get instant feedback of anomalies and easily observe the status of our running services and hardware.
-- Repo: <github.com/12urenloop/monitoring>
+- Repo: <https://github.com/12urenloop/monitoring>
 - Hosted on: Some client in box office.
 - Stack: docker-compose, Grafana, Prometheus
 
