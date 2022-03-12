@@ -52,9 +52,17 @@ TODO: Aanvullen
 
 - Repo: <https://github.com/12urenloop/Ronny-the-station-chef>
 
-### TODO: Boxxy replacement
+### Loxsi
+- Function: A simple server to offload the load of the public livesite to the cloud. Polls data from telraam and makes it available to livesite via websockets.
+- Repo: <https://github.com/12urenloop/loxsi>
+- Hosted on: the 12urenloop server hosted by the UGent
+- Stack: Python, FASTApi
 
-### TODO: Extra monitoring
+### Monitoring
+- Function: Get instant feedback of anomalies and easily observe the status of our running services and hardware.
+- Repo: <github.com/12urenloop/monitoring>
+- Hosted on: Some client in box office.
+- Stack: docker-compose, Grafana, Prometheus
 
 ### Saruman
 
