@@ -22,7 +22,8 @@
 ### Telraam UI
 
 - Function: CRUD-dashboard for Telraam
-- Repo: <https://github.com/NuttyShrimp/telraam-ui>
+- Repo: <https://github.com/12urenloop/telraam-ui>
+- Hosted on: locally, on your computer
 - Stack: Node.js - React
 
 ### Manual Count v2
@@ -37,6 +38,7 @@
 ### Ronny the station chef
 
 - Function: interpret BTLE information and host easy to access HTTP server.
+- Repo: <https://github.com/12urenloop/Ronny-the-station-chef>
 - URL: <ip per station>
 - Stack: Python
 - usage: `GET <ip>/detection/<last_id>`
@@ -48,9 +50,10 @@
     'station_id': string
 }
 ```
-TODO: Aanvullen
+Consists of two parts: 
+1. ronny.py: this handles BTLE detections and inserts them in a database
+2. station.py: this exposes a web interface where the detections can be requested
 
-- Repo: <https://github.com/12urenloop/Ronny-the-station-chef>
 
 ### Loxsi
 - Function: A simple server to offload the load of the public livesite to the cloud. Polls data from telraam and makes it available to livesite via websockets.
@@ -63,6 +66,7 @@ TODO: Aanvullen
 - Repo: <https://github.com/12urenloop/monitoring>
 - Hosted on: Some client in box office.
 - Stack: docker-compose, Grafana, Prometheus
+
 
 ### Saruman
 
