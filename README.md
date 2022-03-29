@@ -21,6 +21,7 @@ There are some **must reads** here:
 - [HARDWARE](./HARDWARE.md)
 - [CONTACTS](./CONTACTS.md)
 - [MATERIAAL](./MATERIAAL.md)
+- [NETWERK](./NETWERK.md)
 
 ## Materials
 
