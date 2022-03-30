@@ -3,12 +3,12 @@
 
 ## Tools
 
-- Gereedschapszak (zwart)
-- ifixit doos klein
+A - Gereedschapszak (zwart)
+A - ifixit doos klein
 - ifixit doos groot
-- stapelbak soldeergerief (minstens soldeerstation, soldeer, octopus, desoldeerpomp)
-- stapelbak hotglue gun + hotglue + schuifmaat + heatshrink tube
-- multimeter (x2)
+A - stapelbak soldeergerief (minstens soldeerstation, soldeer, octopus, desoldeerpomp)
+A - stapelbak hotglue gun + hotglue + schuifmaat + heatshrink tube
+A - stapelbak multimeters (x2) + SDR
 - netwerktester
 - 2 x netwerk krimptang
 - striptang (JD, niet Zeus) 
@@ -57,7 +57,7 @@
     - grote switch x 1
 - Extra batterijen
 - Extra mousse (batons)
-- Stapelbak koperdraad
+A - Stapelbak koperdraad
 
 ## Netwerk
 
