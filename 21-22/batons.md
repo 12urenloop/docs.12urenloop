@@ -1,6 +1,6 @@
 # MICROCONTROLLER ID; BATON LETTER
 00; N
-01; U
+01;
 02; C
 03; K
 04; D
@@ -16,7 +16,7 @@
 0E;
 0F; F
 10; L
-11;
+11; U
 12; V
 13;
 14; Q
