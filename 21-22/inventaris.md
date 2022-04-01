@@ -63,6 +63,7 @@ E - 2 x extra toetsenbord
 D - Doos USB-kabels
 los - Doos video-kabels
 H - 2 x raspberry pi
+NIET VERGETEN: - tablet(s)
 
 ## Reserve
 
