@@ -12,9 +12,9 @@ A - stapelbak multimeters (x2) + SDR
 D - netwerktester
 D - 3 x netwerk krimptang
 A - striptang (JD, niet Zeus)
-H - dremel jasper
+H - dremel (JD, niet Zeus)
 H - schaar
-H - netspanning powermeter
+H - netspanning powermeter (JD, niet Zeus)
 
 ### Dingen om dingen vast te maken
 

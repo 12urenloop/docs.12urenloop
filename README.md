@@ -10,7 +10,7 @@ Things that exist that might help you.
 - 12urenloop MM channel <https://mattermost.zeus.gent/zeus/channels/12urenloop>.
 - Notion Wiki (2019) <https://www.notion.so/zeus12ul/12urenloop-b5f12f293bb34eb69f355d919a26a66d>.
 - 12urenloop Slack channel (for when you need prehistoric stuff) <https://zeuswpi.slack.com/messages/C02SAQ136/>.
-- Docs in CVC (old track schematics, mac addresses) <https://github.com/12urenloop/cvc/tree/master/doc>.
+- Docs in CVC (old track schematics, mac addresses of old bluetooth chips) <https://github.com/12urenloop/cvc/tree/master/doc>.
 - **This repo**.
 
 ## This repo
@@ -26,41 +26,16 @@ There are some **must reads** here:
 ## Materials
 
 Relevant things that Zeus has (or once had) (and you should probably bring):
-
-- Clients / Desktops (for running CVC, Manual Count ...)
-- Networking gear
-  - Long cables (if note, buy some, you need at least 500m)
-  - Short cables
-  - Cable tester
-  - 2 routers
-  - Switches
-  - Big switches
-- AA Batteries (you'll want lot's)
-- Screens
-- Gyrids (5)
-- Bluetooth sticks (6)
-- Espressobins (5)
-- RF transmitters (10)
-- RF receivers (10)
-- USB-C / Micro USB cables
-- Battons (+- 16)
-  - Tubes
-  - Mousse
-  - Battery holders
-  - Bluetooth senders
-- Car batteries (6)
-- Big plastic containers (5) (with eyes (2 (* . *)))
-- Ethernet to USB converters
-- Access point
-- Club Mate
+see the [inventory of 21-22](./21-22/inventaris.md) (the first year where the new hardware and software was used)
 
 If you need more stuff, ask these people:
 
 - Student KickOff. These people can lend you:
   - Switches
   - Routers
-  - Netwerk Beamer
+  - Point-to-point long range Wi-Fi "cable" (straler)
   - Camera's
+  - Access points
 - 12urenloop org (of course)
   - Funding
   - Spanbandjes
