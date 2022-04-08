@@ -8,6 +8,7 @@ Things that exist that might help you.
 
 - GitHub Organisation <https://github.com/12urenloop>.
 - 12urenloop MM channel <https://mattermost.zeus.gent/zeus/channels/12urenloop>.
+- Historic (2022 and onwards) datasets, ask other members for the link, this is on <https://dataset.12urenloop.be>, ask existing members for the complete URL or look in `/var/www/dataset` on asimov.ugent.be.
 - Notion Wiki (2019) <https://www.notion.so/zeus12ul/12urenloop-b5f12f293bb34eb69f355d919a26a66d>.
 - 12urenloop Slack channel (for when you need prehistoric stuff) <https://zeuswpi.slack.com/messages/C02SAQ136/>.
 - Docs in CVC (old track schematics, mac addresses of old bluetooth chips) <https://github.com/12urenloop/cvc/tree/master/doc>.
