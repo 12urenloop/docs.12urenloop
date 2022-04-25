@@ -1,3 +1,9 @@
+---
+layout: default
+title: 21-22
+has_children: false
+---
+
 # Aankopen 12urenloop in 2021-2022
 
 ## datum onbekend (2021-2022)
