@@ -57,7 +57,7 @@ X E - 2 x DELL client
    X E - 2 x DP naar HDMI converter
    X E - 2 x muis
    X E - 2 x toetsenbord
-   X Los - 2 x scherm met HDMI 
+   X Los - 2 x scherm met HDMI
    X E - power voor scherm
 X los - 2 x extra scherm
 X E - 2 x kabels voor extra schermen
@@ -84,7 +84,6 @@ X I - Tadaam Francis
 X los - Tadaam Zeus
 X I - 2x AP SKO
 X I - 2x Straler SKO
-X los Tadaam Zeus
 
 ## Power
 
