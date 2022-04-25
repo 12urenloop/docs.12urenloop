@@ -31,7 +31,7 @@ X los - 10 x autobatterij (5 nieuw, 5 oud)
 X C - 8 x Raspberry Pi in case
 X B - 6 x 8-poort switch + netvoeding 12urenloop
 X D - 2 x 8-poort switch + netvoeding Zeus
-los - 9 x bak voor station
+X los - 9 x bak voor station
 X C - 10 x USB A naar USB C kabel
 X C - 10 x power converter voor USB (groen)
 X C - 10 x power converter voor switch (wit)
@@ -70,13 +70,13 @@ X H - tablet(s)
 ## Reserve
 
 X H - grote switch x 1
-blauwe doos - Extra mousse (batons)
+X los - Extra mousse (batons)
 X A - Stapelbak koperdraad
 
 ## Netwerk
 
 X los - Flightcase (router, UPS, switch, schuif)
-los - Netwerkkabel (oude kabel en nieuwe kabel)
+X los - Netwerkkabel (oude kabel en nieuwe kabel)
 X D - Doos netwerkkopjes
 X D - eventrouter
 X los - kartonnen doos kleine ethernetkabels
@@ -97,9 +97,10 @@ X los - doos IEC poweradapter
 
 X E - Printer
 X E - Labelprinter
-E - Papier
+X E - Papier
 X E - alcoholstift x2
 X E - usbsticks
 X E - zeusstempel
 X H - Doos data adapters
 X los - zeusbanner
+X los - Mate
