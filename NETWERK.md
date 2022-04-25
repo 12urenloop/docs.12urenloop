@@ -66,3 +66,7 @@ Address	MAC Address	Client ID	Server	Active Address	Active MAC      Address	Acti
 ;;; Zeus event router op Telsysteem
 -D		172.12.50.200	00:0A:CD:08:7A:4D		telsysteem			OpenWrt
 ```
+## Print this page
+```
+pandoc -V geometry:margin=0.7in -f gfm NETWERK.md -o netwerk.pdf
+```
