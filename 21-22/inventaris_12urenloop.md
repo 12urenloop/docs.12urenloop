@@ -81,6 +81,7 @@ X D - Doos netwerkkopjes
 X D - eventrouter
 X los - kartonnen doos kleine ethernetkabels
 X I - Tadaam Francis
+X los - Tadaam Zeus
 X I - 2x AP SKO
 X I - 2x Straler SKO
 X los Tadaam Zeus
