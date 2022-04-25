@@ -1,3 +1,9 @@
+---
+layout: default
+title: 21-22
+has_children: false
+---
+
 # Debriefing 6urenloop
 
 ## Changes we want for following events
