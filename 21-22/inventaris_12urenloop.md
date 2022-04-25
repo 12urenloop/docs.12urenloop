@@ -10,7 +10,7 @@ X A - stapelbak soldeergerief (minstens soldeerstation, soldeer, octopus, desold
 X A - stapelbak hotglue gun + hotglue + schuifmaat + heatshrink tube
 X A - stapelbak multimeters (x2) + SDR
 X D - netwerktester
-X (3x) D - 3 x netwerk krimptang
+X D - 3 x netwerk krimptang
 X A - striptang (JD, niet Zeus)
 X H - dremel (JD, niet Zeus)
 X H - schaar
