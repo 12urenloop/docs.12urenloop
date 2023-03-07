@@ -1,13 +1,12 @@
 ---
 layout: default
-title: 21-22
+title: 22-23
 has_children: false
 ---
 
 *Voor volgende jaren: zet dit in een codimd tijdens het inpakken*
 
 # Mee te nemen naar de n-urenloop
-
 
 ## Tools
 
@@ -17,8 +16,9 @@ X B - ifixit doos groot
 X A - stapelbak soldeergerief (minstens soldeerstation, soldeer, octopus)
 X A - stapelbak hotglue gun + hotglue + schuifmaat + heatshrink tube
 X A - stapelbak multimeters (x2)
-  D - netwerktester
-X D - 4 x netwerk krimptang (1 van 12urenloop, 3 van zeus) + 1 x netwerk strippertool + netwerkzakje 12urenloop
+X D - netwerktester
+X D - 4 x netwerk krimptang (1 van 12urenloop, 3 van zeus) + 1 x netwerk strippertool 
+X E - netwerkzakje 12urenloop (kabeltester, crimptang, ...)
 X A - striptang (JD, niet Zeus)
 X H - dremel (JD, niet Zeus)
 X H - schaar
@@ -26,7 +26,7 @@ X H - schaar
 ### Dingen om dingen vast te maken
 
 X B - spanbandjes
-X B - tape: elektrische tape, gaffa (2 zwarte en een witte rol)
+X B - tape: elektrische tape, gaffa (3 zwarte en een witte rol)
 X B - velcro spanbandjes
 X B - zeusstickers
 X B - lijm en secondelijm
@@ -52,10 +52,10 @@ X C - 4 x reserve li-ion batterij in houder
 X C - 4 x reserve microcontroller
 X teldoos - Doos batonsstokken
 X G - Doos baton binnenkanten
-    - baton
-    - groene li-ion batterij
-    - microcontroller
-    - mousse
+X G - baton
+X G - groene li-ion batterij
+X G - microcontroller
+X G - mousse
 
 
 ## Clients
@@ -69,8 +69,9 @@ X los - 1 x extra scherm (voeding zit in doos E)
 X - E - 2 x extra toetsenbord
 X - D - Doos USB-kabels
 X los - Doos video-kabels
-  H - 2 x raspberry pi
-  NIET VERGETEN: - tablet(s)
+X A - 2 x raspberry pi
+  los - iPad
+  los - tablet iwijn
 
 ## Reserve
 
@@ -82,7 +83,7 @@ X A - Stapelbak koperdraad
 ## Netwerk
 
 X los - Flightcase (router, UPS, switch, schuif)
-  los - Netwerkkabel (oude kabel en nieuwe kabel)
+X los - Netwerkkabel (oude kabel en nieuwe kabel)
 X D - Doos netwerkkopjes
 X D - eventrouter + powersupply + reserve powersupply
 X los - kartonnen doos kleine ethernetkabels
@@ -113,6 +114,7 @@ X los - 4 walkies DSA
 X - grote Zeus WPI bak - poncho's
 X - grote Zeus WPI bak - dekentjes
 X - grote Zeus WPI bak - vuilzakken
+X - grote Zeus WPI bak - elektrisch kacheltje Jasper
 
 ## Drank
 
