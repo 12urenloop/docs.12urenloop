@@ -25,10 +25,10 @@ with open(sys.argv[1], "r") as infile:
 	for line in infile.readlines():
 		if line.lstrip().startswith("#") or line.strip() == "":
 			continue
-
+		line = line.strip() + '\n'
 		sep_idx = line.find(" - ")
 		category = line[:sep_idx].upper()
-		item = line[sep_idx + 3:]
+		item = "-[ ] " + line[sep_idx + 3:]
 
 		if category.strip() == "":
 			item = category + item

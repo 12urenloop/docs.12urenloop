@@ -37,7 +37,7 @@ X los - 10 x autobatterij (5 nieuw, 5 oud)
 X C - 8 x Raspberry Pi in case
 X B - 6 x 8-poort switch + netvoeding 12urenloop
 X D - 2 x 8-poort switch + netvoeding Zeus
-X los - 7 x bak voor station (TODO 2 te kort??)
+X los - 9 x bak voor station + deksels
 X C - 10 x USB A naar USB C kabel
 X C - 10 x power converter voor USB (groen)
 X C - 10 x power converter voor switch (wit)
@@ -60,18 +60,18 @@ X G - mousse
 
 ## Clients
 
-X - E - 2 x DELL client (snowball, meeseeks, power supply, video adapter)
-X - E - 2 x muis
-X - E - 2 x toetsenbord
+X E - 2 x DELL client (snowball, meeseeks, power supply, video adapter)
+X E - 2 x muis
+X E - 2 x toetsenbord
 X los - 2 x scherm met HDMI 
-X - E - 2 x power voor scherm
+X E - 2 x power voor scherm
 X los - 1 x extra scherm (voeding zit in doos E)
-X - E - 2 x extra toetsenbord
-X - D - Doos USB-kabels
+X E - 2 x extra toetsenbord
+X D - Doos USB-kabels
 X los - Doos video-kabels
 X A - 2 x raspberry pi
   los - iPad
-  los - tablet iwijn
+  los - tablet iwijn (wordt ter plaatse gegeven)
 
 ## Reserve
 
@@ -99,25 +99,24 @@ X H - doos batterijen
 
 ## Administratief
 
-  E - Printer TODO
-X E - Labelprinter TODO
-  E - Papier TODO
+X E - Printer
+X E - Labelprinter
+X E - Papier
 X E - 2 x alcoholstift
 X E - usbsticks
-  E - zeusstempel TODO
 X H - Doos data adapters
 X los - zeusbanner
 X los - 4 walkies DSA
 
 ## Textiel
 
-X - grote Zeus WPI bak - poncho's
-X - grote Zeus WPI bak - dekentjes
-X - grote Zeus WPI bak - vuilzakken
-X - grote Zeus WPI bak - elektrisch kacheltje Jasper
+X grote Zeus WPI bak - poncho's
+X grote Zeus WPI bak - dekentjes
+X grote Zeus WPI bak - vuilzakken
+X grote Zeus WPI bak - elektrisch kacheltje Jasper
 
 ## Drank
 
-X - bak mate zero min 1 flesje
-X - bak mate min 1 flesje
+X los - bak mate zero min 1 flesje
+X los - bak mate min 1 flesje
  
