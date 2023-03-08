@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="GPSLogger 126 - http://gpslogger.mendhak.com/">
+<metadata>
+    <name>binnenkant-6urenloop-2023</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
+<trk>
+    <name>binnenkant-6urenloop-2023</name>
+    <type>Cycling</type>
+    <trkseg>
+    <trkpt lat="51.20545164518694" lon="3.2174176722764973">
+        <ele>8.2</ele>
+    </trkpt>
+    <trkpt lat="51.205513822635446" lon="3.2173978361382494">
+        <ele>8.2</ele>
+    </trkpt>
+    <trkpt lat="51.205576" lon="3.217378">
+        <ele>8.3</ele>
+    </trkpt>
+    <trkpt lat="51.20558183" lon="3.21726691">
+        <ele>57.5</ele>
+    </trkpt>
+    <trkpt lat="51.20556551" lon="3.21717991">
+        <ele>57.0</ele>
+    </trkpt>
+    <trkpt lat="51.20553091" lon="3.21710944">
+        <ele>56.7</ele>
+    </trkpt>
+    <trkpt lat="51.20547616" lon="3.2171302">
+        <ele>56.7</ele>
+    </trkpt>
+    <trkpt lat="51.20543089" lon="3.21715596">
+        <ele>56.9</ele>
+    </trkpt>
+    <trkpt lat="51.2053842" lon="3.21717384">
+        <ele>56.3</ele>
+    </trkpt>
+    <trkpt lat="51.20533842" lon="3.21718852">
+        <ele>56.2</ele>
+    </trkpt>
+    <trkpt lat="51.20529138" lon="3.21720042">
+        <ele>56.7</ele>
+    </trkpt>
+    <trkpt lat="51.20524718" lon="3.21721457">
+        <ele>57.4</ele>
+    </trkpt>
+    <trkpt lat="51.20520203" lon="3.21722749">
+        <ele>57.4</ele>
+    </trkpt>
+    <trkpt lat="51.20515505" lon="3.21724205">
+        <ele>57.3</ele>
+    </trkpt>
+    <trkpt lat="51.20510913" lon="3.21726282">
+        <ele>57.7</ele>
+    </trkpt>
+    <trkpt lat="51.20505112" lon="3.21728786">
+        <ele>56.9</ele>
+    </trkpt>
+    <trkpt lat="51.20499413" lon="3.21730744">
+        <ele>56.5</ele>
+    </trkpt>
+    <trkpt lat="51.20493706" lon="3.21731886">
+        <ele>56.5</ele>
+    </trkpt>
+    <trkpt lat="51.20489194" lon="3.21732725">
+        <ele>56.7</ele>
+    </trkpt>
+    <trkpt lat="51.20484829" lon="3.21734509">
+        <ele>56.7</ele>
+    </trkpt>
+    <trkpt lat="51.20480273" lon="3.21736493">
+        <ele>57.0</ele>
+    </trkpt>
+    <trkpt lat="51.20475757" lon="3.21738067">
+        <ele>57.2</ele>
+    </trkpt>
+    <trkpt lat="51.20471639" lon="3.21744791">
+        <ele>57.0</ele>
+    </trkpt>
+    <trkpt lat="51.2047399" lon="3.21751778">
+        <ele>57.1</ele>
+    </trkpt>
+    <trkpt lat="51.20477919" lon="3.21757771">
+        <ele>57.1</ele>
+    </trkpt>
+    <trkpt lat="51.20482911" lon="3.2176222499999994">
+        <ele>7.1</ele>
+    </trkpt>
+    <trkpt lat="51.20514040903487" lon="3.2175197578085957">
+        <ele>7.7</ele>
+    </trkpt>
+    <trkpt lat="51.205451705965764" lon="3.2174172656171915">
+        <ele>8.2</ele>
+    </trkpt>
+    </trkseg>
+</trk>
+</gpx>

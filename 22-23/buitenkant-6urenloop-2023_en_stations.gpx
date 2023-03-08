@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2" version="1.1" creator="GPSLogger 126 - http://gpslogger.mendhak.com/">
+<metadata>
+    <name>buitenkant-6urenloop-2023</name>
+    <author>
+        <name>gpx.studio</name>
+        <link href="https://gpx.studio"></link>
+    </author>
+</metadata>
+<wpt lat="51.20522591" lon="3.21754868">
+    <ele>56.3</ele>
+    <name>boog ingang</name>
+    <sym>Crossing</sym>
+</wpt>
+<wpt lat="51.20503937" lon="3.21762637">
+    <ele>56.1</ele>
+    <name>station 3</name>
+    <sym>Number 3, Blue</sym>
+</wpt>
+<wpt lat="51.20477639" lon="3.21763643">
+    <ele>57.5</ele>
+    <name>station 2</name>
+    <sym>Number 2, Blue</sym>
+</wpt>
+<wpt lat="51.20489211" lon="3.21725686">
+    <ele>55.6</ele>
+    <name>station 1</name>
+    <sym>Number 1, Blue</sym>
+</wpt>
+<wpt lat="51.20509602" lon="3.21720591">
+    <ele>56.5</ele>
+    <name>startlijn</name>
+    <sym>Flag</sym>
+</wpt>
+<wpt lat="51.20520105" lon="3.21715883">
+    <ele>56.8</ele>
+    <name>station 7</name>
+    <sym>Number 7, Blue</sym>
+</wpt>
+<wpt lat="51.20545717" lon="3.21707995">
+    <ele>57.0</ele>
+    <name>station 6</name>
+    <sym> </sym>
+</wpt>
+<wpt lat="51.20545742" lon="3.21707986">
+    <ele>57.0</ele>
+    <name>station 6
+</name>
+    <desc>
+</desc>
+    <sym>Number 6, Blue</sym>
+</wpt>
+<wpt lat="51.20561216" lon="3.21722133">
+    <ele>57.2</ele>
+    <name>station 5</name>
+    <sym>Number 5, Blue</sym>
+</wpt>
+<wpt lat="51.20540795" lon="3.21748344">
+    <ele>58.1</ele>
+    <name>station 4</name>
+    <sym>Number 4, Blue</sym>
+</wpt>
+<wpt lat="51.20540879283804" lon="3.2174196839332585">
+    <ele>8.1</ele>
+    <name>IT tent Zeus</name>
+    <sym>Rectangle, Red</sym>
+</wpt>
+<trk>
+    <name>buitenkant-6urenloop-2023</name>
+    <type>Cycling</type>
+    <trkseg>
+    <trkpt lat="51.20538932115687" lon="3.217502612985444">
+        <ele>8.2</ele>
+    </trkpt>
+    <trkpt lat="51.2054719256525" lon="3.217474786492722">
+        <ele>8.3</ele>
+    </trkpt>
+    <trkpt lat="51.20555453" lon="3.21744696">
+        <ele>8.4</ele>
+    </trkpt>
+    <trkpt lat="51.20559386" lon="3.21740423">
+        <ele>57.1</ele>
+    </trkpt>
+    <trkpt lat="51.20562095" lon="3.2173404">
+        <ele>57.1</ele>
+    </trkpt>
+    <trkpt lat="51.20561993" lon="3.21725325">
+        <ele>57.0</ele>
+    </trkpt>
+    <trkpt lat="51.20561216" lon="3.21722133">
+        <ele>57.2</ele>
+    </trkpt>
+    <trkpt lat="51.20559473" lon="3.217144">
+        <ele>56.7</ele>
+    </trkpt>
+    <trkpt lat="51.20557016" lon="3.21708312">
+        <ele>56.4</ele>
+    </trkpt>
+    <trkpt lat="51.20552874" lon="3.21704359">
+        <ele>56.7</ele>
+    </trkpt>
+    <trkpt lat="51.20547731" lon="3.21705541">
+        <ele>56.9</ele>
+    </trkpt>
+    <trkpt lat="51.20545742" lon="3.21707986">
+        <ele>57.0</ele>
+    </trkpt>
+    <trkpt lat="51.20545717" lon="3.21707995">
+        <ele>57.0</ele>
+    </trkpt>
+    <trkpt lat="51.20540522" lon="3.21709847">
+        <ele>56.8</ele>
+    </trkpt>
+    <trkpt lat="51.20534742" lon="3.21712057">
+        <ele>56.8</ele>
+    </trkpt>
+    <trkpt lat="51.20530234" lon="3.21712617">
+        <ele>57.1</ele>
+    </trkpt>
+    <trkpt lat="51.20524748" lon="3.21714187">
+        <ele>57.1</ele>
+    </trkpt>
+    <trkpt lat="51.2051991" lon="3.21715878">
+        <ele>56.8</ele>
+    </trkpt>
+    <trkpt lat="51.20520105" lon="3.21715883">
+        <ele>56.8</ele>
+    </trkpt>
+    <trkpt lat="51.20515522" lon="3.21718024">
+        <ele>56.8</ele>
+    </trkpt>
+    <trkpt lat="51.20510902" lon="3.21722723">
+        <ele>56.5</ele>
+    </trkpt>
+    <trkpt lat="51.20509602" lon="3.21720591">
+        <ele>56.5</ele>
+    </trkpt>
+    <trkpt lat="51.20503956" lon="3.21721565">
+        <ele>56.4</ele>
+    </trkpt>
+    <trkpt lat="51.20498721" lon="3.21723893">
+        <ele>56.5</ele>
+    </trkpt>
+    <trkpt lat="51.20493174" lon="3.2172547">
+        <ele>56.3</ele>
+    </trkpt>
+    <trkpt lat="51.20489211" lon="3.21725686">
+        <ele>55.6</ele>
+    </trkpt>
+    <trkpt lat="51.204838" lon="3.21727681">
+        <ele>55.7</ele>
+    </trkpt>
+    <trkpt lat="51.20479296" lon="3.21728777">
+        <ele>56.1</ele>
+    </trkpt>
+    <trkpt lat="51.20473439" lon="3.21729525">
+        <ele>55.9</ele>
+    </trkpt>
+    <trkpt lat="51.20468837" lon="3.21730387">
+        <ele>56.2</ele>
+    </trkpt>
+    <trkpt lat="51.2046516" lon="3.21735921">
+        <ele>56.5</ele>
+    </trkpt>
+    <trkpt lat="51.20466439" lon="3.21745088">
+        <ele>56.3</ele>
+    </trkpt>
+    <trkpt lat="51.20468859" lon="3.21753202">
+        <ele>56.8</ele>
+    </trkpt>
+    <trkpt lat="51.20472927" lon="3.21758234">
+        <ele>56.9</ele>
+    </trkpt>
+    <trkpt lat="51.20477175" lon="3.21762899">
+        <ele>57.5</ele>
+    </trkpt>
+    <trkpt lat="51.20477639" lon="3.21763643">
+        <ele>57.5</ele>
+    </trkpt>
+    <trkpt lat="51.20482049" lon="3.21768307">
+        <ele>57.7</ele>
+    </trkpt>
+    <trkpt lat="51.20486735" lon="3.21770083">
+        <ele>57.3</ele>
+    </trkpt>
+    <trkpt lat="51.20491189" lon="3.21768925">
+        <ele>57.2</ele>
+    </trkpt>
+    <trkpt lat="51.20496975" lon="3.21766434">
+        <ele>56.5</ele>
+    </trkpt>
+    <trkpt lat="51.20502582" lon="3.21763993">
+        <ele>56.1</ele>
+    </trkpt>
+    <trkpt lat="51.20503937" lon="3.21762637">
+        <ele>56.1</ele>
+    </trkpt>
+    <trkpt lat="51.20508896" lon="3.21761218">
+        <ele>55.5</ele>
+    </trkpt>
+    <trkpt lat="51.20514367" lon="3.21759667">
+        <ele>55.7</ele>
+    </trkpt>
+    <trkpt lat="51.20519703" lon="3.21757634">
+        <ele>56.5</ele>
+    </trkpt>
+    <trkpt lat="51.20522591" lon="3.21754868">
+        <ele>56.3</ele>
+    </trkpt>
+    <trkpt lat="51.20527817" lon="3.21753266">
+        <ele>55.7</ele>
+    </trkpt>
+    <trkpt lat="51.20533385" lon="3.21751838">
+        <ele>55.5</ele>
+    </trkpt>
+    <trkpt lat="51.20538891" lon="3.21750032">
+        <ele>55.4</ele>
+    </trkpt>
+    </trkseg>
+</trk>
+</gpx>
