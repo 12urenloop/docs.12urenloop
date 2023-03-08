@@ -1,12 +1,17 @@
-buk
-de zwoane
-aethyra
-vesalius verpleegkundeschool
-brihos
-kring brugge
-college of europe
-zowe verpleegkunde
-erasmus 23
-vives verpleegkunde
-lopen & leute
-the lodge
+TeamID: Ook nummer op vestje
+
+
+TeamID; Naam; Baton
+
+1  -> buk                          -> B
+2  -> de zwoane                    -> D
+3  -> aethyra                      -> E
+4  -> vesalius verpleegkundeschool -> F
+5  -> brihos                       -> G
+6  -> kring brugge                 -> I
+7  -> college of europe            -> J
+8  -> zowe verpleegkunde           -> L
+9  -> erasmus 23                   -> M
+10 -> vives verpleegkunde          -> N
+11 -> lopen & leute                -> P
+12 -> the lodge                    -> T
