@@ -120,3 +120,9 @@ X grote Zeus WPI bak - elektrisch kacheltje Jasper
 X los - bak mate zero min 1 flesje
 X los - bak mate min 1 flesje
  
+## Vergeten
+
+niet mee - SDR voor configuratie walkie talkies
+niet mee - beamer
+niet mee - paraplu
+niet mee - wifi-stralers SKO + een omvormer om die van een autobatterij te laten draaien
