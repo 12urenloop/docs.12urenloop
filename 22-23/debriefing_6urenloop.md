@@ -42,7 +42,7 @@ Ter info: deze lijst is opgesteld door mij (Jasper), via informatie van mezelf e
 - In manualcount is er een bug waardoor het (met meerdere toestellen?) mogelijk is dat er rondjes van 0 seconden zijn. Racecondition? Best verifieren in de Telraamdatabase
 - Als het regent en een teldoos moet open, dan regent het daarin. Naar volgend jaar dus een paraplu meedoen.
 - We willen een lock-button op manualcount
-- Meer snacks voor tijdens de dag
+- Meer snacks voor tijdens de dag => ingrediënten en kookmateriaal meenemen om pannenkoeken te bakken, er is toch tijd genoeg :D
 - Meer Robbe
 - Kabels niet buiten laten liggen, dat gaat daarvan kapot
 - De livesite zou by default moeten een error geven als het start en er geen loxsi URL geconfigureerd is: nu is er een default om localhost te gebruiken, waardoor je dat dan moet debuggen als je dat vergeet in te stellen
