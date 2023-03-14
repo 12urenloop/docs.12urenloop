@@ -57,3 +57,4 @@ Ter info: deze lijst is opgesteld door mij (Jasper), via informatie van mezelf e
 - Meer displayport naar HDMI adapters kopen: dan zouden we 2 schermen per client kunnen doen
 - De stationdozen zitten nu in een vuilzak, zodat die beter beschermd zijn tegen de regen. Best nog iets tussen het deksel van de bak en de vuilzak steken, zodat het water niet blijft staan op die vuilzak in de holte van het deksel
 - Grotere gaten maken in alle bakken, de huidige gaten zijn soms te klein om ethernetkabels in te steken zonder heel hard te moeten duwen
+- Een groot aantal batons zijn verkeerd in elkaar gestoken, zie HARDWARE.md voor hoe het touw aan de batterij zou moeten hangen

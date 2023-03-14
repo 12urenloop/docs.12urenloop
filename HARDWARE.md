@@ -12,6 +12,13 @@ The batons contain "Adafruit Feather nRF52 Bluefruit LE - nRF52832" development 
 
 See [the repo](https://github.com/12urenloop/baton_firmware/) for instructions on how to flash the microcontrollers.
 
+This is how not to attach the rope to the battery:
+ ![How not to attach batons](/assets/images/baton_bad.jpg)
+
+This is how you should attach the rope to the battery 
+![How to attach batons](/assets/images/baton_good.jpg)
+
+
 ### Batteries
 
 Lithium ion, 3.7v. About the size of a AA battery. Need to be charged to **?? v** after the event before storage. This is necessary to retain the full capacity of the batteries for further editions. The battery is connected via a JST connector to the microcontroller.
