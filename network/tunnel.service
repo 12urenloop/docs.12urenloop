@@ -1,0 +1,13 @@
+[Unit]
+Description=Setup a remote tunnel to Asimov
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/ssh -vv -i /path/to/ssh/key -o ServerAliveInterval=60 -o ExitOnForwardFailure=yes -nNT -R RECIEVINGPORT:localhost:8080 root@asimov.ugent.be -p 2222
+RestartSec=15
+Restart=always
+KillMode=mixed
+StartLimitIntervalSec=0
+
+[Install]
+WantedBy=multi-user.target
