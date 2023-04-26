@@ -55,6 +55,8 @@ Plug uplink internet access in ETH1. Plug the netgear router in ETH5. Plug all t
 Plug accesspoint (Zeus event router) for internet for regular people in one of the LAN ports on the router. Plug an accesspoint in the Telsysteem netgear switch for wireless for manualcount clients.
 
 ## Configuration
+## Security
+Disable unneeded services and limit the active services to the needed subnets under IP->Services.
 ### Uplink
 There are 2 uplink ports configured:
 - ETH1: where the router takes a static IP -> use for connection with **ABDIJ**
