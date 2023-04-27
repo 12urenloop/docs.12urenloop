@@ -62,7 +62,7 @@ There are 2 uplink ports configured:
 - ETH1: where the router takes a static IP -> use for connection with **ABDIJ**
 - ETH2: where the router acts as a DHCP Client and expects to receive an IP address -> use for **TADAAM**
 
-Interafces->Interface list: configure uplinks as WAN 
+Interafces->Interface list: configure uplinks as WAN. 
 Make sure the interfaces are not part of a bridge network (slaves)
 
 TOEKOMST: https://help.mikrotik.com/docs/pages/viewpage.action?pageId=26476608
@@ -83,7 +83,8 @@ Each bridge network has its own subnet and corresponding addresspool. These subn
 ### Firewall
 The access is configured per bridge network, using the IP->Firewall rules
 * Default rule to drop all traffic not coming from LAN is *disabled*
-* For the different bridge networks rules are added specific for the allowed traffic (i.e. Telsysteem -> Uplink)
+* For the different bridge networks rules are added specific for the allowed traffic (i.e. Telsysteem -> Bar)
+* For each bridge interface, allow traffic to the interface List WAN, which should contain both uplink interfaces. **THIS HAS NOT YET BEEN CONFIGURED CORRECTLY IN THE BACKUP CONFIGS IN THIS REPO** (only traffic to one of the uplinks is allowed instead)
 * Then, for each network a rule is added to drop all other traffic. (except for mgmt which is allowed everything)
 
 ### IP adresses
