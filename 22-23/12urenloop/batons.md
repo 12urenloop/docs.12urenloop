@@ -1,6 +1,6 @@
 # ESP Baton Mapping
 
-| MAC-adres | ESP | Baton |
+| MAC-adres | microcontroller | Baton |
 |-----------|-----|-------|
 | 5A:45:55:53:00:01 | C | C
 | 5A:45:55:53:00:02 | B | B

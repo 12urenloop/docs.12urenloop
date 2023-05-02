@@ -2,10 +2,9 @@
 
 - Stylos vinden tijdens het event was moeilijk omdat er geen Zeus stylos mee waren => breng er ~10.
 - De baton wissels zijn meestal door doppen die loskomen => maak deze vast met ductape, 1 laag ductape is genoeg.
-- er zijn te weinig doppen, koop die bij
-- heatshrink rond kabels li-ion battery van batons zodat er niets kan tussenkomen die die apart/los trekt
+- er zijn te weinig doppen voor de batons (PVC buis van 40mm buitendiameter), koop die bij
+- heatshrink die de kabels van de li-ion battery van batons samenhoudt zodat er niets kan tussenkomen die die apart/los trekt
 - kabels van autobatterijen verbinden met spade connectors die ge-heat-shrinkt zijn ipv los daarin draaien
-
 
 
 ## Netwerk
@@ -26,21 +25,26 @@ Het barnetwerk hebben we op het management netwerk gelaten om niet nog een onder
 De abdij uplink opnieuw met een laptop succesvol getest met iperf3, dus daar leek niets mis mee te zijn. Op de laptop hadden we hetzelfde statische ip en gateway ingesteld als op de router. 
 We hebben de abdij uplink nog wat verder getest op de router, maar enkel selectief verkeer naar eigen servers daarover geroute en de tadaam uplink nog als default gateway gelaten. We kregen er geen pings of traffic door. Op een gegeven moment hebben we op de router de tool 'packet sniffer' opgestart en daarna gingen pings wel door en werkte de abdij uplink magisch wel weer. We hebben geen idee waarom. The End.
 
-## Batterij Voltages
+## Batterijvoltages
+
+Dit zijn de batterijvoltages zonder load vlak na de afbraak (dus na ~13 uur uptime). De batterijen waren voordien tot minstens 12.7 volt opgeladen: de meting na het opladen werd genomen 5 minuten nadat de batterij afgekoppeld was van de lader.
+
+Er zijn mogelijks 2 gedegradeerde batterijen: G en J
 
  - Auto B - 12.33V
  - Auto C - 12.33V
  - Auto D - 12.65V
  - Auto G - 10.54V !
  - Auto I - 12.68V
- - Auto J - 11.46V
+ - Auto J - 11.46V !
  - Auto K - 12.36V
 
-## livesite
+## Livesite
 
-- teams met zelfde aantal rondes moeten hetzelfde positie nummer krijgen op de livesite
+- Teams met zelfde aantal rondes moeten hetzelfde positie nummer krijgen op de livesite (https://github.com/12urenloop/livesite/issues/5)
+- Config zou apart moeten zijn van source code, zodat de config vergeten veranderen tijdens de deploy duideijk is (https://github.com/12urenloop/livesite/issues/4)
 
-## misc
+## MISC
 
 - Dozen die op het terrein staan labelen langs alle kanten met een nummer, zodat die makkelijk herkenbaar zijn
 - Klaas moet een kabels met een ervaren iemand leggen zodat deze niet rond harnassen en door harnasblokken worden gewikkeld
