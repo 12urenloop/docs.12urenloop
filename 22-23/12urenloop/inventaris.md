@@ -115,20 +115,23 @@ X los - vuilzakken
 
 los - bak mate zero
 los - bak mate
- 
-## Vergeten
-
-niet mee - paraplu
-niet mee - wifi-stralers SKO + een omvormer om die van een autobatterij te laten draaien
 
 # Niet mee
 
+## Vergeten
+
+- paraplu
+
 ## Op
 
-X - Niet mee - Lijm & secondelijm
+- Niet mee - Lijm & secondelijm
 
 ## Te warm
 
 - grote Zeus WPI bak met dekentjes
 - elektrisch kacheltje Jasper
+
+## Handig voor volgende keer
+
+- 10x balpennen
 
