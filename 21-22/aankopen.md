@@ -40,6 +40,6 @@ has_children: false
 
 ## datum onbekend (2021-2022)
 
-- 5 x 12V loodzuur batterijen (TODO capaciteit, eventueel link?) (sommige oude autobatterijen waren kapot)
+- 5 x 12V loodzuur batterijen: Ultracell UL18-12 12V 18Ah Lead acid (TODO capaciteit, eventueel link?) (sommige oude autobatterijen waren kapot)
 - 1 x C14 naar shuko vrouwelijk (om stekker in UPS te kunnen steken)
 - 2 extra SD-kaartjes 64 GB (we hadden dit te kort om alle Pi's een SD-kaartje te kunnen geven)
