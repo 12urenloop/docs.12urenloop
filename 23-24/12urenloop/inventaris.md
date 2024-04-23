@@ -113,3 +113,7 @@ has_children: false
 
 - [x] - 6 bureaustoelen
 - [x] Los - Subwoofer + boxen
+
+## Vergeten
+
+- [ ] whiteboard
