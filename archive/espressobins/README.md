@@ -1,4 +1,5 @@
 ---
+parent: archive
 title: Espressobins
 ---
 

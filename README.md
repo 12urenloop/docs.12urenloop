@@ -2,6 +2,16 @@
 
 This repo should help you give an overview of things that exist in relation to organizing the yearly 12urenloop and setting up the counting system.
 
+## This repo
+
+There are some **must reads** here:
+
+- [APPLICATIONS](./APPLICATIONS.md)
+- [HARDWARE](./HARDWARE.md)
+- [CONTACTS](./CONTACTS.md)
+- [MATERIAAL](./MATERIAAL.md)
+- [NETWERK](./NETWERK.md)
+
 ## Resources
 
 Things that exist that might help you.
@@ -13,16 +23,6 @@ Things that exist that might help you.
 - 12urenloop Slack channel (for when you need prehistoric stuff) <https://zeuswpi.slack.com/messages/C02SAQ136/>.
 - Docs in CVC (old track schematics, mac addresses of old bluetooth chips) <https://github.com/12urenloop/cvc/tree/master/doc>.
 - **This repo**.
-
-## This repo
-
-There are some **must reads** here:
-
-- [APPLICATIONS](./APPLICATIONS.md)
-- [HARDWARE](./HARDWARE.md)
-- [CONTACTS](./CONTACTS.md)
-- [MATERIAAL](./MATERIAAL.md)
-- [NETWERK](./NETWERK.md)
 
 ## Materials
 
