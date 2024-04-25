@@ -34,6 +34,7 @@ Sorted by last year of participation
 - Vincent (@vincent)
 - Xander (@xerbalind)
 - Maxime (@flynn)
+- Abe (@abeformatter)
 - Robbe Van Herck (@kobbe)
 - Jasper Devreker (jasper@devreker.be)
 - Kenneth Van Den Driesche (@tleilaxu)
