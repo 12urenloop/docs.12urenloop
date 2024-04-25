@@ -1,5 +1,5 @@
 ---
-parent: 22-23_6urenloop
+parent: 22-23 6urenloop
 ---
 
 # 6urenloop 2022-2023

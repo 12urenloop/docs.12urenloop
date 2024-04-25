@@ -1,5 +1,6 @@
 ---
 parent: 21-22
+title: inventaris 6urenloop
 ---
 
 # Mee te nemen naar de n-urenloop

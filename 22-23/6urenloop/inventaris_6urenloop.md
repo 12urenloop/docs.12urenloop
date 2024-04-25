@@ -1,5 +1,5 @@
 ---
-parent: 22-23_6urenloop
+parent: 22-23 6urenloop
 ---
 
 *Voor volgende jaren: zet dit in een codimd tijdens het inpakken*
