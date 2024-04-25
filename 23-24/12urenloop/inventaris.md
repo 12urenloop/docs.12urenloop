@@ -1,7 +1,5 @@
 ---
-layout: default
-title: 22-23
-has_children: false
+parent: 23-24_12urenloop
 ---
 
 (Dit stond tijdens het inpakken in een CodiMD, zodat mensen dit in parallel konden aanvullen)

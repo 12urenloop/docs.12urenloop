@@ -1,3 +1,7 @@
+---
+parent: 22-23_12urenloop
+---
+
 # ESP Baton Mapping
 
 | MAC-adres | microcontroller | Baton |

@@ -1,3 +1,7 @@
+---
+parent: 22-23_12urenloop
+---
+
 # 12urenloop 2022-2023
 
 - Stylos vinden tijdens het event was moeilijk omdat er geen Zeus stylos mee waren => breng er ~10.

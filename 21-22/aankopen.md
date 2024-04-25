@@ -1,7 +1,5 @@
 ---
-layout: default
-title: 21-22
-has_children: false
+parent: 21-22
 ---
 
 # Aankopen 12urenloop in 2021-2022

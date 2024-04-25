@@ -1,7 +1,5 @@
 ---
-layout: default
-title: 21-22
-has_children: false
+parent: 21-22
 ---
 
 # Debriefing 6urenloop

@@ -1,3 +1,7 @@
+---
+parent: 22-23_12urenloop
+---
+
 # A
 -[ ] Gereedschapszak (zwart)
 -[ ] ifixit doos klein

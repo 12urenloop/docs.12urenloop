@@ -1,3 +1,7 @@
+---
+parent: 23-24_12urenloop
+---
+
 # 12urenloop 2023-2024
 
 (origineel ingevuld op https://codimd.zeus.gent/ssPUG5EkS_GtE53XRQABuQ?both; na 01/05/2024 eens kijken of dit nog geupdate is, hier syncen en dan deze note verwijderen)

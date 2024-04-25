@@ -1,7 +1,5 @@
 ---
-layout: default
-title: 22-23
-has_children: false
+parent: 22-23_6urenloop
 ---
 
 *Voor volgende jaren: zet dit in een codimd tijdens het inpakken*

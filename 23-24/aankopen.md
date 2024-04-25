@@ -1,7 +1,5 @@
 ---
-layout: default
-title: 22-23
-has_children: false
+parent: 23-24
 ---
 
 # Aankopen 12urenloop in 2023-2024

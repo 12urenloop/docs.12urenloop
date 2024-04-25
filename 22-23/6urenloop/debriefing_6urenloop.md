@@ -1,3 +1,7 @@
+---
+parent: 22-23_6urenloop
+---
+
 # 6urenloop 2022-2023
 
 ## Verloop
