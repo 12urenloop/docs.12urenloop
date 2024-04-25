@@ -11,9 +11,11 @@ Flightcase met volledige setup:
 * Netgear GS724TP 24 port managed switch
 
 Accespoints: van Zeus (eventrouter) en/of SKO
+
 ## Setup
+
 | Interface (router)                 	| Function   	| IP-range                     	| Access                  	|
-|------------------------------------	|------------	|------------------------------	|-------------------------	|
+| ------------------------------------	| ------------	| ------------------------------	| -------------------------	|
 | ETH 1                              	| Uplink Static | /                            	| Nothing                 	|
 | ETH 2                              	| Uplink DHCP   | /                            	| Nothing                 	|
 | ETH 4, connected to George switch 	| Bar		 	| 192.168.99.10-192.168.99.254  | Uplink, Bar 				|
@@ -22,9 +24,11 @@ Accespoints: van Zeus (eventrouter) en/of SKO
 | ETH 3, 6-8                       	| LAN        	| 192.168.88.10-192.168.88.254 	| Uplink, LAN             	|
 
 ### Statip ip's
+
 In Telsysteem: 172.12.50.X
+
 | Name               	|  ip 	|
-|--------------------	|-----------	|
+| --------------------	| -----------	|
 | Netgear switch 24p 	| 10        	|
 | Client 1           	| 21        	|
 | Client 2           	| 22        	|
