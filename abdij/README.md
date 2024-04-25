@@ -1,3 +1,7 @@
+---
+title: Abdij
+---
+
 # Abdij
 
 Internet komt van de abdij (<https://www.openstreetmap.org/relation/2804440>). Je moet hiervoor op voorhand een mail sturen naar <jurgen.vangeert@district09.gent> (dit is nu district09, niet meer digipolis).

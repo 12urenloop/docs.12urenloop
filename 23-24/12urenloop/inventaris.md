@@ -1,5 +1,7 @@
 ---
-parent: 23-24_12urenloop
+grand_parent: 23-24
+parent: 12urenloop
+title: inventaris
 ---
 
 (Dit stond tijdens het inpakken in een CodiMD, zodat mensen dit in parallel konden aanvullen)

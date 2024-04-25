@@ -1,3 +1,8 @@
+---
+title: Configuring a pi to run Ronny for 12urenloop
+---
+
+
 # Configuring a pi to run Ronny for 12urenloop
 
 1. Download and copy the raspbian lite .img [file](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2022-01-28/2022-01-28-raspios-bullseye-arm64-lite.zip) to an sd card

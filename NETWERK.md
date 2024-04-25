@@ -1,3 +1,7 @@
+---
+title: Network
+---
+
 #  Netwerk
 ## Hardware
 Flightcase met volledige setup:

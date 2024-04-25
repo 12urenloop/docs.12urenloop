@@ -6,11 +6,11 @@ This repo should help you give an overview of things that exist in relation to o
 
 There are some **must reads** here:
 
-- [APPLICATIONS](./APPLICATIONS.md)
-- [HARDWARE](./HARDWARE.md)
-- [CONTACTS](./CONTACTS.md)
-- [MATERIAAL](./MATERIAAL.md)
-- [NETWERK](./NETWERK.md)
+- [APPLICATIONS](./APPLICATIONS)
+- [HARDWARE](./HARDWARE)
+- [CONTACTS](./CONTACTS)
+- [MATERIAAL](./MATERIAAL)
+- [NETWERK](./NETWERK)
 
 ## Resources
 
@@ -45,6 +45,17 @@ If you need more stuff, ask these people:
 
 ## This site
 
-is build with https://pmarsceill.github.io/just-the-docs/.
+is build with https://just-the-docs.com/.
 
 Edits can be made in the repo or straight on github. When pushed or merged on master they will automatically be reflected onto the site.
+
+### Local development
+
+Install ruby.
+Install dependencies.
+
+    bundle
+
+Run the docs site locally.
+
+    bundle exec jekyll serve

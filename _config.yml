@@ -1,5 +1,8 @@
 title: 12urenloop Documentation
 description: This site should help you give an overview of things that exist in relation to organizing the yearly 12urenloop and setting up the counting system.
+theme: just-the-docs
+
+url: https://12urenloop.github.io
 baseurl: /docs.12urenloop
 
 gh_edit_link: true # show or hide edit this page link
@@ -8,8 +11,9 @@ gh_edit_repository: "https://github.com/12urenloop/docs.12urenloop" # the github
 gh_edit_branch: "master" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
-theme: just-the-docs
 
 plugins:
+  - jekyll-default-layout
   - jekyll-readme-index
   - jekyll-last-modified-at
+  

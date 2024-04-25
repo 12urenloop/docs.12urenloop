@@ -1,3 +1,7 @@
+---
+title: Hardware
+---
+
 # Hardware
 
 Software is needed to save the data, calculate laps, monitor hiccups, ...

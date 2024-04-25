@@ -1,3 +1,7 @@
+---
+title: Applications
+---
+
 # Applications
 
 ## Currently in use

@@ -1,5 +1,7 @@
 ---
-parent: 23-24_12urenloop
+grand_parent: 23-24
+parent: 12urenloop
+title: debriefing
 ---
 
 # 12urenloop 2023-2024

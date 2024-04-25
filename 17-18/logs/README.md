@@ -1,5 +1,6 @@
 ---
 parent: 17-18
+title: CVC logs
 ---
 
 # CVC Logs 2017-2018

@@ -1,6 +1,6 @@
 ---
 parent: 22-23
-title: 22-23 6urenloop
+title: 6urenloop
 has_children: true
 ---
 

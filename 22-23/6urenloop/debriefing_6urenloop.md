@@ -1,6 +1,7 @@
 ---
 grand_parent: 22-23
-parent: 22-23 6urenloop
+parent: 6urenloop
+title: debriefing
 ---
 
 # 6urenloop 2022-2023

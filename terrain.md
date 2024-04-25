@@ -1,3 +1,7 @@
+---
+title: Terrain
+---
+
 # Terrain
 
 The event is held on the [Sint-Pietersplein](https://visit.gent.be/nl/zien-doen/sint-pietersplein) in Ghent. A hotspot for all students studying in the city.

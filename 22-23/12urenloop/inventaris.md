@@ -1,6 +1,7 @@
 ---
 grand_parent: 22-23
-parent: 22-23_12urenloop
+parent: 12urenloop
+title: inventaris
 ---
 
 *Voor volgende jaren: zet dit in een codimd tijdens het inpakken*

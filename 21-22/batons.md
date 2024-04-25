@@ -1,5 +1,6 @@
 ---
 parent: 21-22
+title: batons
 ---
 
 # MICROCONTROLLER ID; BATON LETTER
