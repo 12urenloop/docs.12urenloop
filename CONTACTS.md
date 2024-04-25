@@ -1,5 +1,6 @@
 ---
 title: Contacts
+nav_order: 94
 ---
 
 # List of contacts

@@ -8,9 +8,9 @@ There are some **must reads** here:
 
 - [APPLICATIONS](./APPLICATIONS)
 - [HARDWARE](./HARDWARE)
-- [CONTACTS](./CONTACTS)
-- [MATERIAAL](./MATERIAAL)
 - [NETWERK](./NETWERK)
+- [MATERIAAL](./MATERIAAL)
+- [CONTACTS](./CONTACTS)
 
 ## Resources
 

@@ -1,5 +1,6 @@
 ---
 title: Applications
+nav_order: 90
 ---
 
 # Applications

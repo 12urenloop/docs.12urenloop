@@ -1,5 +1,6 @@
 ---
 title: Hardware
+nav_order: 91
 ---
 
 # Hardware
