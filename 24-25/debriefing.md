@@ -1,4 +1,9 @@
-# Debriefing
+---
+parent: 24-25
+title: Debriefing
+---
+
+# 12urenloop 2025 - debriefing
 
 ## Start
 - Hesjes op voorhand controleren zodat we zeker weten dat we alles hebben
