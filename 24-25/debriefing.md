@@ -31,6 +31,9 @@ title: Debriefing
 - Fans/heatsink toevoegen voor warme edities
 - Polling sleep verhogen
 - Spreader vraagt heel veel van db als er 2 sockets openstaan. Vervangen van gorm door sqlc zodat we terug de macht krijgen tot onze DB queries
+- 1 batterij -> pi transformer (groen ding) is kapotgegaan (voor de start)
+    - onbekende reden... ziet er fine uit.
+    - nog maar 1 backup (voor ronny08)
 
 ## Monitoring
 - SNMP monitoring stralers
@@ -38,5 +41,11 @@ title: Debriefing
 
 ## Baton
 - Meer spanbandjes gelost (R, N)
+    - Bij sommige (twijfelachtige) baton's zat er nu versteviging (plastiek) tussen spanbandje en moes. Dit kan toegevoegd worden voor de rest.
 - Bij sommige batons is de batterij uit de moes geschoven
 - 1 baton geherstart maar nog 1u blijven werken
+
+## Batterijen
+[zie voltages](./batteries.html)
+- Batterij J was opgeladen en is naar 10.58V gezakt op ~5u tijd tijdens een setup test. In de vorige editie was dit ook het geval en is dus waarschijnlijk kapot. Is niet meer gebruikt geweest voor het event zelf.
+- Spare female connectors zijn bijna op

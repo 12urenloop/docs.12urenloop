@@ -5,20 +5,18 @@ title: Batterijen
 
 # Batterijen
 
-Voor: gemeten in de kelder, hebben niet in de stekker gestoken maar waren opgeladen buiten wanneer anders vermeld
+Voor: gemeten ~25min na opladen.
 Na: gemeten om 21:25
+Uptime: ~ 12u30m
 
 | Batterij | Voor    | Na      |
 | -------- | ------- | ------- |
-| J        | 13,63V | 13,06V (niet gebruikt, backup ronny08) |
-| K        | 14,44V | 12,71V |
-| H        | 14,38V | 12,71V |
-| Y        | 12,93V (niet opgeladen) | 12,57V |
-| I        | 12,56V (Was in gebruik voor test) | 12,65V |
-| D        | 14,39V | 12,57V |
-| B        | 14,38V | 12,61V |
-| Z        | 14,53V | 12,72V |
-| C        | 14,32V | Niet gebruikt & opgemeten |
-
-
-
+| J        | 13,63V | 13,06V (niet gebruikt, KAPOT) |
+| K        | 13,35V | 12,71V |
+| H        | 13,34V | 12,71V |
+| Y        | 13,32V | 12,57V |
+| I        | 13,08V | 12,65V |
+| D        | 13,13V | 12,57V |
+| B        | 12,96V | 12,61V |
+| Z        | 13,32V | 12,72V |
+| C        | 13,02V | Niet gebruikt |
