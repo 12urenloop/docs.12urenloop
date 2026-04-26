@@ -7,6 +7,7 @@ This repo should help you give an overview of things that exist in relation to o
 There are some **must reads** here:
 
 - [APPLICATIONS](./APPLICATIONS)
+- [DEPLOYING](./DEPLOYING)
 - [HARDWARE](./HARDWARE)
 - [NETWORK](./NETWERK)
 - [MATERIAAL](./MATERIAAL)
