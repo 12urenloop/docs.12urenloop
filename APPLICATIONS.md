@@ -7,80 +7,130 @@ nav_order: 90
 
 ## Currently in use
 
-### Telraam
+### Baton firmware
 
-- Function: New and hopefully improved application to count laps of the 12urenloop event.
-- Note: Shiny new software. The backbone and main database of our system.
-- URL: No, this runs locally.
-- Repo: <https://github.com/12urenloop/telraam>
-- Hosted on: Probably a poor mortal's PC during the event, preferably a dedicated server.
-- Stack: Java
-
-### TelraamSim
-
-- Function: Simulation of the event to test Telraam without the actual hardware
-- Note: Very usefull to test the software in a development setup
-- URL: Runs as desktop application on your PC
-- Repo: <https://github.com/12urenloop/telraamsim>
-- Stack: Godot with CSharp
-
-### Telraam UI
-
-- Function: CRUD-dashboard for Telraam
-- Repo: <https://github.com/12urenloop/telraam-ui>
-- Hosted on: locally, on your computer
-- Stack: Node.js - React
-
-### Manual Count v2
-
-- Function: Backup system for manual counting in the first hours of the event (hopefully)
-- Note: Very important this works.
-- URL: Some local ip during the event.
-- Repo: <https://github.com/12urenloop/manual-count-2>
-- Hosted on: Some client in box office.
-- Stack: Node.js - Typescript - Vue
+- Function: Code that runs on the baton electronics and shouts BLE beacons with its identifier wherever it goes.
+- Repo: <https://github.com/12urenloop/baton_firmware>
+- Stack: nRF52832, Arduino platform
 
 ### Ronny the station chef
 
-- Function: interpret BTLE information and host easy to access HTTP server.
+- Function: interpret BLE information and host easy to access HTTP server.
 - Repo: <https://github.com/12urenloop/Ronny-the-station-chef>
-- URL: <ip per station>
-- Stack: Python
-- usage: `GET <ip>/detection/<last_id>`
-- returns
-```typescript
-{
-    'detections':
-        {'id': number, 'mac': string, 'rssi': number, 'battery': number, 'uptime_ms': number, 'detection_timestamp': number}[],
-    'station_id': string
-}
-```
-Consists of two parts: 
-1. ronny.py: this handles BTLE detections and inserts them in a database
-2. station.py: this exposes a web interface where the detections can be requested
+- Hosted on: The Raspberry Pi's in the stations along the track.
+- Stack: ~~Python~~ Go
 
+Consists of two parts:
 
-### Loxsi
-- Function: A simple server to offload the load of the public livesite to the cloud. Polls data from telraam and makes it available to livesite via websockets.
-- Repo: <https://github.com/12urenloop/loxsi>
-- Hosted on: the 12urenloop server hosted by the UGent
-- Stack: Python, FASTApi
+1. collector: this handles BLE detections and inserts them in a local PostgreSQL database
+2. spreader: this exposes a REST and websocket interface where the detections can be requested
+
+### Telraam
+
+- Function: New and hopefully improved application to count laps of the 12urenloop event.
+- Note: ~~Shiny new software.~~ The backbone and main database of our system.
+- Repo: <https://github.com/12urenloop/telraam>
+- Hosted on: client1 @ ZeusContainer
+- Stack: Java
+
+### Manual Count v2
+
+- Function: An external lapper for Telraam. Works by manually counting teams through it's web UI. Backup system in case the ronny's fail.
+- Note: Very important this works. Also make sure devices (e.g. iPads) work properly. Assign 1 person per 6 teams. Stop when the ronny's have proven themselves for an hour at least.
+- Repo: <https://github.com/12urenloop/manual-count-2>
+- Hosted on: client1 @ ZeusContainer
+- Stack: Node.js - Typescript - Vue
+
+### DeDenker
+
+- Function: External lapper for Telraam which employs HMM machine learning.
+- Note: Never the reference lapper, but more lappers can highlight oddities when they give different counts.
+- Repo: <https://github.com/12urenloop/DeDenker>
+- Hosted on: client1 @ ZeusContainer
+- Stack: Python (SKLearn)
 
 ### Monitoring
+
 - Function: Get instant feedback of anomalies and easily observe the status of our running services and hardware.
 - Repo: <https://github.com/12urenloop/monitoring>
-- Hosted on: Some client in box office.
+- Hosted on: client2 @ Zeus container
 - Stack: docker-compose, Grafana, Prometheus
 
+### Banshee
+
+- Function: Screams at you when monitoring alerts are being ignored.
+- Repo: <https://github.com/12urenloop/banshee>
+- Hosted on: client2 @ Zeus container
+- Stack: Go
+
+### ansible-config
+
+- Function: What deploys all of the above. Provided some initial setup and networking, turns 2 clients and 8 pi's into the “telsysteem”.
+- Note: See [Deploying](./DEPLOYING). Anything not deployed (or not todo) should be below.
+- Repo: <https://github.com/12urenloop/ansible-config>
+- Hosted on: Your laptop @ ZeusContainer
+- Stack: Ansible (`(gu|l|n)ix` one day)
+
+### Loxsi
+
+- Function: The Telraam proxy. Runs next to the livesite on an external server. Polls data from telraam via `ssh -R` and makes it available to livesite via websockets.
+- URL: <https://loxsi.12urenloop.be/>
+- Repo: <https://github.com/12urenloop/loxsi>
+- Hosted on: loxsi@12urenloop.be:2222 (Zeus asimov)
+- Stack: Python (FASTApi)
+
+### TARGET
+
+- Function: The new livesite, with prediction of runner locations best-effort prediction
+- Note: Always stress that these predictions are not what determines lap count. Updating the count happens later and is always reviewed manually and adjusted if the system made a mistake.
+- Repo: <https://github.com/12urenloop/TARGET>
+- URL: <https://live.12urenloop.be/>
+- Hosted on: live@12urenloop.be:2222 (Zeus asimov)
+- Stack: Vue.js
 
 ### Saruman
 
 - Function: Platform to book materials and drinks for participating clubs
-- Note: Standallone app. Still on the Zeus repo for some reason.
+- Note: Standalone app, not part of the telsysteem.
 - URL: <https://materiaal.12urenloop.be>
 - Repo: <https://github.com/ZeusWPI/Saruman>
-- Hosted on: materiaal@12urenloop.be:2222
+- Hosted on: materiaal@12urenloop.be:2222 (Zeus asimov)
 - Stack: Ruby on Rails
+
+### Factuur
+
+- Function: Platform to generate/make invoice PDF
+- Note: Standalone app, not part of the telsysteem.
+- Note: Check /var/www/factuur.12urenloop.be/ (instead of ~)
+- URL <https://12urenloop.be/factuur>
+- Repo: <https://github.com/12urenloop/Factuur>
+- Hosted on: factuur@12urenloop.be:2222 (Zeus asimov)
+- Stack: Ruby on Rails
+
+## Prototypes
+
+### Lapocalypse3000
+
+- Function: Next gen runner-tracking system employing UWB technology. In prototyping stage. Could eventually replace the BLE system and provide accurate real-time positions.
+- Repo: <https://github.com/12urenloop/Lapocalypse3000>
+
+## Development tools
+
+### REPLAY
+
+- Function: Replays station data from previous events for development purposes.
+- Repo: <https://github.com/12urenloop/REPLAY>
+- Stack: Python
+
+### SIMSALABIM
+
+- Function: Simulates runner behaviour as fake station data for development purposes.
+- Repo: <https://github.com/12urenloop/SIMSALABIM>
+- Stack: Godot
+
+## Archive
+
+These are applications (in no specific order) that were used in or made for previous editions but are now deprecated or out of use.
 
 ### Site
 
@@ -91,19 +141,20 @@ Consists of two parts:
 - Hosted on: urenloop@zeus.ugent.be:2222 (see public/)
 - Stack: nanoc
 
-### Factuur
+### Telraam UI
 
-- Function: Platform to generate/make invoice PDF
-- Note: Standalone app
-- Note: Check /var/www/factuur.12urenloop.be/ (instead of ~)
-- URL <https://12urenloop.be/factuur>
-- Repo: <https://github.com/12urenloop/Factuur>
-- Hosted on: factuur@12urenloop.be:2222
-- Stack: Ruby on Rails
+- Function: CRUD-dashboard for Telraam
+- Repo: <https://github.com/12urenloop/telraam-ui>
+- Hosted on: locally, on your computer
+- Stack: Node.js - React
 
-## Archive
+### TelraamSim
 
-These are applications (in no specific order) that were used in or made for previous editions but are now deprecated or out of use.
+- Function: Simulation of the event to test Telraam without the actual hardware
+- Note: Very usefull to test the software in a development setup
+- URL: Runs as desktop application on your PC
+- Repo: <https://github.com/12urenloop/telraamsim>
+- Stack: Godot with CSharp
 
 ### Boxxy
 
@@ -113,7 +164,6 @@ These are applications (in no specific order) that were used in or made for prev
 - Repo: <https://github.com/12urenloop/boxxy>
 - Hosted on: urenloop@zeus.ugent.be:2222 (see app/)
 - Stack: Node.js - HTML
-
 
 ### Count von Count
 

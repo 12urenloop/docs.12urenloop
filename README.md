@@ -8,7 +8,7 @@ There are some **must reads** here:
 
 - [APPLICATIONS](./APPLICATIONS)
 - [HARDWARE](./HARDWARE)
-- [NETWERK](./NETWERK)
+- [NETWORK](./NETWERK)
 - [MATERIAAL](./MATERIAAL)
 - [CONTACTS](./CONTACTS)
 
@@ -22,7 +22,7 @@ Things that exist that might help you.
 - Notion Wiki (2019) <https://www.notion.so/zeus12ul/12urenloop-b5f12f293bb34eb69f355d919a26a66d>.
 - 12urenloop Slack channel (for when you need prehistoric stuff) <https://zeuswpi.slack.com/messages/C02SAQ136/>.
 - Docs in CVC (old track schematics, mac addresses of old bluetooth chips) <https://github.com/12urenloop/cvc/tree/master/doc>.
-- **This repo**.
+- **This repo** <https://github.com/12urenloop/docs.12urenloop>.
 
 ## Materials
 
@@ -32,26 +32,28 @@ see the [inventory of 21-22](./21-22/inventaris.md) (the first year where the ne
 If you need more stuff, ask these people:
 
 - Student KickOff. These people can lend you:
-  - Switches
-  - Routers
-  - Point-to-point long range Wi-Fi "cable" (straler)
-  - Camera's
-  - Access points
+    - Switches
+    - Routers
+    - Point-to-point long range Wi-Fi "cable" (straler)
+    - Camera's
+    - Access points
 - 12urenloop org (of course)
-  - Funding
-  - Spanbandjes
-  - Gaffa tape
-  - Network cables
+    - Funding
+    - Spanbandjes
+    - Gaffa tape
+    - Network cables
 
 ## This site
 
-is build with https://just-the-docs.com/.
+This is a Jekyll static site, built from <https://github.com/12urenloop/docs.12urenloop>.
 
-Edits can be made in the repo or straight on github. When pushed or merged on master they will automatically be reflected onto the site.
+Edits can be made in the repo or straight on github.
+When pushed or merged on master they will automatically be reflected onto the site.
 
 ### Local development
 
 Install ruby.
+
 Install dependencies.
 
     bundle
