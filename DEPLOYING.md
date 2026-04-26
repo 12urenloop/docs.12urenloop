@@ -56,12 +56,14 @@ The router should automatically assign IP addresses based on MAC address via DHC
 ### Clients
 
 Wipe and install Debian on the clients as described in [Preparing a client for the ansible-config](deploying/prepare_a_client):
+
     - [ ] `client1`
     - [ ] `client2`
 
 ### Ronnys
 
 Flash the ronnys and set a password as described in [Preparing a ronny for the ansible-config](deploying/prepare_a_ronny):
+
     - [ ] `ronny01`
     - [ ] `ronny02`
     - [ ] `ronny03`
