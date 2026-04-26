@@ -1,7 +1,8 @@
 ---
 title: Configuring a pi to run Ronny for 12urenloop
+parent: archive
+published: false
 ---
-
 
 # Configuring a pi to run Ronny for 12urenloop
 

@@ -1,6 +1,7 @@
 ---
-parent: archive
 title: Gyrid
+parent: archive
+published: false
 ---
 
 Deprecated
