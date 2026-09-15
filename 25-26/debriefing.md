@@ -1,3 +1,8 @@
+---
+parent: 25-26
+title: Debriefing 12urenloop 2026
+---
+
 # Debriefing 12urenloop 2026
 
 ## Preparations
